@@ -19,10 +19,6 @@ As a student in Msc in artificial intelligence, I enjoy practicing maths and sta
 
 </br>
 
-📊 **This Week I Spent My Time On:**
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 📈 **My GitHub Stats:**
 
