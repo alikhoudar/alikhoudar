@@ -9,7 +9,7 @@ I am passionate about machine learning and artificial intelligence. I love proce
 
 As a student in Msc in artificial intelligence, I enjoy practicing maths and statistics to data. That help me well understanding the data I work with and build better machine learning model that make good predictions.
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="390" height="318" />
 
 **Talking about Personal Stuffs:**
 
@@ -19,12 +19,13 @@ As a student in Msc in artificial intelligence, I enjoy practicing maths and sta
 
 </br>
 
+<hr>
 
 📈 **My GitHub Stats:**
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alikhoudar&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alikhoudar&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alikhoudar&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
 
