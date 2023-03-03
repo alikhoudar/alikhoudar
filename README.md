@@ -19,7 +19,6 @@ As a student in Msc in artificial intelligence, I enjoy practicing maths and sta
 
 </br>
 
-<hr>
 
 📈 **My GitHub Stats:**
 
