@@ -21,9 +21,7 @@ As a student in Msc in artificial intelligence, I enjoy practicing maths and sta
 
 📊 **This Week I Spent My Time On:**
 
-<figure><embed src="https://wakatime.com/share/@c6036499-63c9-4f34-ab52-9193c55a6404/6d9a45c9-fdf0-4332-8155-fdbf25967d26.svg"></embed></figure>
-</br>
-<img height="200em" width="400em" src="https://wakatime.com/share/@c6036499-63c9-4f34-ab52-9193c55a6404/e485b878-7a1e-48c8-a71a-e42e3379b1d5.svg"/>
+<img height="300em" width="600em" src="https://wakatime.com/share/@c6036499-63c9-4f34-ab52-9193c55a6404/6d9a45c9-fdf0-4332-8155-fdbf25967d26.svg)"/>
 
 
 
